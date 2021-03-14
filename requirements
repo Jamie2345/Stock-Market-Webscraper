@@ -4,3 +4,4 @@ wherever it says PATH-TO-SPREADSHEET change it to the same location eg. C:\Users
 
 Run the scraper program then a few seconds after run the graph program. (the scraper program scrapes the website and adds data to a csv and the graph program reads that csv in real time and plots the data)
 
+heres an image of me running it for just bitcoin: https://imgur.com/a/j0J2CUY
