@@ -1,0 +1,6 @@
+You will need: os, requests, beautiful soup (bs4), pandas and matplotlib
+
+wherever it says PATH-TO-SPREADSHEET change it to the same location eg. C:\Users\name\stock prices scrapper\my spreadsheet (you don't need to create a spreadsheet yourself the program will do that for you and it will also delete old spreadsheets so you don't need to worry about it taking up space)
+
+Run the scraper program then a few seconds after run the graph program. (the scraper program scrapes the website and adds data to a csv and the graph program reads that csv in real time and plots the data)
+
